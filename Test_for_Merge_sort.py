@@ -1,7 +1,7 @@
 from Merge_sort import merge_sort
 import random
 
-#Тесты для быстрой сортировки
+#Тесты для сортировки слияниям
 
 # Случай len = 0:
 assert merge_sort([]) == []
