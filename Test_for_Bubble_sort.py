@@ -1,7 +1,7 @@
 from Bubble_sort import bubble_sort
 import random
 
-#Тесты для быстрой сортировки
+#Тесты для пузырьковой сортировки
 
 # Случай len = 0:
 assert bubble_sort([]) == []
