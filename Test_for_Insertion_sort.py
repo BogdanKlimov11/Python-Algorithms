@@ -1,7 +1,7 @@
 from Insertion_sort import insertion_sort
 import random
 
-#Тесты для быстрой сортировки
+#Тесты для сортировки вставками
 
 # Случай len = 0:
 assert insertion_sort([]) == []
