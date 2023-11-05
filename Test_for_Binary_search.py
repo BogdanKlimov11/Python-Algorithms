@@ -1,6 +1,6 @@
 from Binary_search import binary_search
 
-#Тесты для двоичного поиска
+# Тесты для двоичного поиска
 
 # Случай size = 0:
 assert binary_search([], 4) == None
