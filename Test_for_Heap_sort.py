@@ -1,7 +1,7 @@
 from Heap_sort import heap_sort
 import random
 
-#Тесты для быстрой сортировки
+#Тесты для пиромидальной сортировки
 
 # Случай len = 0:
 assert heap_sort([]) == []
