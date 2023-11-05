@@ -1,7 +1,7 @@
 from Selection_sort import selection_sort
 import random
 
-#Тесты для быстрой сортировки
+#Тесты для сортировки выбором
 
 # Случай len = 0:
 assert selection_sort([]) == []
